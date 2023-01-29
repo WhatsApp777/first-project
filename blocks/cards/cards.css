@@ -1,0 +1,12 @@
+.cards {
+  margin: 0;
+  padding: 0;
+  width: 920px;
+  display: flex;
+  justify-content:first baseline;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 100px;
+  row-gap: 60px;
+  padding-top: 60px;
+}
