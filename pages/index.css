@@ -57,7 +57,7 @@
 @import url(../blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
 @import url(../blocks/table/_theme_dark/table_theme_dark.css);
 @import url(../blocks/resources/resources.css);
-@import url(../blocks/resources/_logo_zone/resources_logo_zone.css);
+@import url(../blocks/resources/__logo/_logo_zone/resources_logo_zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
