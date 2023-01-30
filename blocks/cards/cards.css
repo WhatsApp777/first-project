@@ -3,10 +3,9 @@
   padding: 0;
   width: 920px;
   display: flex;
-  justify-content:first baseline;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
   column-gap: 100px;
-  row-gap: 60px;
   padding-top: 60px;
 }
